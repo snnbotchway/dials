@@ -39,6 +39,7 @@ Advanced command-line tutorials
    multi_crystal_symmetry_and_scaling
    metrology_corrections
    multi_crystal_analysis
+   br_lyso_multi
 
 DIALS for 3DED/MicroED
 
@@ -46,12 +47,5 @@ DIALS for 3DED/MicroED
    :maxdepth: 1
 
    3DED/MyD88
-   3DED/lysozyme_nanocrystals
    3DED/Biotin
 
-Developer tutorials
-
-.. toctree::
-   :maxdepth: 1
-
-   developer_tutorial
